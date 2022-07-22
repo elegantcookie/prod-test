@@ -24,10 +24,10 @@ const docTemplate = `{
                 "summary": "Heartbeat metric",
                 "responses": {
                     "204": {
-                        "description": ""
+                        "description": "No Content"
                     },
                     "400": {
-                        "description": ""
+                        "description": "Bad Request"
                     }
                 }
             }
